@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **VaultBoard – A Client Portal + Project Management SaaS**
 
-- 🌱 I’m currently learning **Next.js 14, TypeScript, Microservices, and System Design**
+- 🌱 I’m currently learning **Microservices, and System Design**
 
 - 💬 Ask me about **MERN**
 
