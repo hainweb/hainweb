@@ -87,3 +87,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hainweb&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
+
+<!-- <p align="center">
+<img src="https://raw.githubusercontent.com/hainweb/hainweb/output/snake-dark.svg" />
+</p> -->
