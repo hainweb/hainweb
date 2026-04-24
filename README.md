@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajin</h1>
-<h3 align="center">AI Engineer 🤖 | Full Stack Developer 💻 | Building Intelligent & Scalable Systems</h3>
+<h3 align="center">AI Engineer | Full Stack Developer | Building Intelligent & Scalable Systems</h3>
 
 <img align="right" alt="AI Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
